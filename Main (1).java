@@ -145,7 +145,7 @@ public class Main
     	   }
 	  
 	   }while(chances>=0);
-		
+	leitor.close();
 	}
 }
 
